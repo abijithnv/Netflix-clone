@@ -9,16 +9,36 @@
 <body>
     <header class="header">
         <div class="logo" ><img class="logo-img" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Logonetflix.png" alt="netflix logo"></div>
-        <div class="search">
-            <div class="search-bar">
-                <input type="text" class="search-box" placeholder="Search Movie" id="search">
-                <img class="search-icon" src="https://static-00.iconduck.com/assets.00/search-icon-1024x1024-hd1pcvqu.png" alt="search icon">
+            <div class="search">
+                <div class="search-bar">
+                    <input type="text" onkeyup="searchMovie()" class="search-box" placeholder="Search Movie" id="search">
+                    <img onclick="searchMovie()" class="search-icon" src="https://static-00.iconduck.com/assets.00/search-icon-1024x1024-hd1pcvqu.png" alt="search icon">
+                </div>
             </div>
         </div>
+    </header>
+
+    <section class="movies">
+
+        <div class="movie">
+            <div class="overlay">
+
+                <div class="video">
+
+                </div>
+                <div class="details">
+                    <h1>Avengers</h1>
+                    <h2>IMDB:8.1</h2>
+                    <p>Robert Downey jr. Chris Hemsworth . Scarlett Johansonn</p>
+
+                </div>
+            </div>
+            
+            <img class="poster" src="https://m.media-amazon.com/images/M/MV5BNDYxNjQyMjAtNTdiOS00NGYwLWFmNTAtNThmYjU5ZGI2YTI1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg" alt="poster">
 
         </div>
 
-    </header>
+    </section>
 
 
 
