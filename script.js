@@ -55,15 +55,34 @@
 function searchMovie()
 {
     let movieName=document.getElementById("search").value;
+
+    if(movieName!=="")
+    {
+        let result = moviesArray.filter(function(movie)
+                    {
+                        return movie.name.toUpperCase().includes(movieName.toUpperCase());
+                    })
+        
+        displayMovies(result);
+
+    }
+    else
+    {
+        displayMovies(moviesArray);
+    }
+
+
+
     console.log(movieName);
 }
 
 
-function displayMovies()
+function displayMovies(data)
 {
+    document.getElementById("movies");
     let htmlString=``;
 
-    for(let i=0;i<moviesArray.length;i++)
+    for(let i=0;i<data.length;i++)
     {
         htmlString=htmlString+`
 
@@ -74,14 +93,14 @@ function displayMovies()
 
                     </div>
                     <div class="details">
-                        <h1>${moviesArray[i].name}</h1>
-                        <h2>IMDB : ${moviesArray[i].rating}</h2>
+                        <h1>${data[i].name}</h1>
+                        <h2>IMDB : ${data[i].rating}</h2>
                         <p>Robert Downey. Chris Hemsworth . Scarlett Johansonn</p>
 
                     </div>
                 </div>
                 
-                <img class="poster" src="${moviesArray[i].cover}" alt="poster">
+                <img class="poster" src="${data[i].cover}" alt="poster">
 
             </div>
 
@@ -92,4 +111,4 @@ function displayMovies()
         
     }
 }
-displayMovies();
+displayMovies(moviesArray);
