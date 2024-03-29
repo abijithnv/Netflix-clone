@@ -48,12 +48,12 @@ body{
 }
 
 .search-bar{
-    width:90%;
+    width:80%;
     height: 40px;
     background-color: white;
     display: flex;
     align-items: center;
-    column-gap: 30px;
+    column-gap: 40px;
     border-radius: 10px;
     overflow: hidden;
 }
@@ -75,13 +75,14 @@ body{
     width: 100%;
     padding: 50px 5%;
     background-color: grey;
+
 }
 
 .movie{
 
     width: 20%;
     height: 450px;
-    background-color: red;
+    /* background-color: red; */
     overflow: hidden;
     border-radius: 10px;
     position: relative;
@@ -95,6 +96,7 @@ body{
     opacity: 0;
     transition: .3s;
     cursor: pointer;
+    
 
 }
 .overlay:hover{
