@@ -58,6 +58,7 @@ function searchMovie()
     console.log(movieName);
 }
 
+
 function displayMovies()
 {
     let htmlString=``;
@@ -73,14 +74,14 @@ function displayMovies()
 
                     </div>
                     <div class="details">
-                        <h1>Avengers</h1>
-                        <h2>IMDB : 8.1</h2>
+                        <h1>${moviesArray[i].name}</h1>
+                        <h2>IMDB : ${moviesArray[i].rating}</h2>
                         <p>Robert Downey. Chris Hemsworth . Scarlett Johansonn</p>
 
                     </div>
                 </div>
                 
-                <img class="poster" src="https://m.media-amazon.com/images/M/MV5BNDYxNjQyMjAtNTdiOS00NGYwLWFmNTAtNThmYjU5ZGI2YTI1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg" alt="poster">
+                <img class="poster" src="${moviesArray[i].cover}" alt="poster">
 
             </div>
 
