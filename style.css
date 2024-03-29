@@ -74,7 +74,11 @@ body{
 .movies{
     width: 100%;
     padding: 50px 5%;
-    background-color: grey;
+    background-color: black;
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: 5%;
+    row-gap: 20px;
 
 }
 
@@ -86,6 +90,7 @@ body{
     overflow: hidden;
     border-radius: 10px;
     position: relative;
+
 
 }
 .overlay{
