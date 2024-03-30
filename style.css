@@ -143,6 +143,7 @@ body{
     }
     .logo
     {
+        margin-left: 10px;
         height: 35px;
     }
     .logo-img{
