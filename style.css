@@ -22,6 +22,7 @@ body{
 }
 
 
+
 .logo
 {
     width: 20%;
@@ -35,6 +36,7 @@ body{
 .logo-img{
     height: 40px;
 }
+
 
 .search{
     width: 30%;
@@ -132,4 +134,40 @@ body{
     /* height: relative; */
     
 
+}
+
+
+@media (max-width: 550px) {
+    .header {
+        padding-left: 2%;
+        padding-right: 2%;
+    }
+    .logo, .search {
+        width: 25%;
+    }
+    .logo-img{
+        height: 30px;
+    }
+    .search-bar {
+        
+        height: 20px;
+        column-gap: 20px;
+    }
+    .search-box{
+        width: 80%;
+        height: 20px;
+        font-size: 8px;
+        text-indent: 10px;
+    }
+    .search-icon{
+        height: 10px;
+    
+    }
+    .movies {
+        padding: 30px 2%;
+        column-gap: 2%;
+    }
+    .movie {
+        width: 45%;
+    }
 }
