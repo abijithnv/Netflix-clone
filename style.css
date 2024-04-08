@@ -10,7 +10,7 @@ body {
   padding: 0px;
   display: flex;
   flex-wrap: wrap;
-  background-color: red;
+  background-color:black;
 }
 
 
@@ -72,7 +72,7 @@ body {
 .movies {
   width: 100%;
   padding: 30px 5%;
-  background-color: yellow;
+  background-color: black;
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
