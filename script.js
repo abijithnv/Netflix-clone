@@ -132,6 +132,38 @@
                 cover: "https://upload.wikimedia.org/wikipedia/en/5/5c/Suicide_Squad_%282016_film%29_poster.png",
                 cast: "Margot Robbie, Idris Elba, John Cena"
             },
+            {
+                name: "Ghost Rider",
+                rating: 5.2,
+                cover: "https://i.pinimg.com/736x/4b/22/8f/4b228fc6f2674f7eb7c48af2c6cbf323.jpg",
+                cast: "Nicolas Cage, Eva Mendes, Sam Elliott"
+            },
+            {
+                name: "Drunken Master",
+                rating: 7.5,
+                cover: "https://m.media-amazon.com/images/I/51cJs1DMlJL._AC_UF894,1000_QL80_.jpg",
+                cast: "Jackie Chan, Siu Tin Yuen, Jang Lee Hwang"
+            },
+            {
+                name: "Me Before You",
+                rating: 7.4,
+                cover: "https://m.media-amazon.com/images/I/81fTRhi9E+L._AC_UF1000,1000_QL80_.jpg",
+                cast: "Emilia Clarke, Sam Claflin, Janet McTeer"
+            },
+
+            {
+                name:"Jumanji",
+                rating:7.1,
+                cover:"https://m.media-amazon.com/images/S/pv-target-images/6605eddeb3e44a153694c675cd1129d2a9d7d25576366657536f7311d9d7dc99.jpg",
+                cast: "Robin Williams . Kirsten Dunst . Bradley Pierce"
+            },
+
+            {
+                name: "The Suicide Squad",
+                rating: 7.3,
+                cover: "https://upload.wikimedia.org/wikipedia/en/5/5c/Suicide_Squad_%282016_film%29_poster.png",
+                cast: "Margot Robbie, Idris Elba, John Cena"
+            },
 
             
         
