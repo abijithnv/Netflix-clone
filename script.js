@@ -97,8 +97,8 @@
             {
                 name: "Fast & Furious",
                 rating: 6.8,
-                cover: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTupoL5bu1KP9miI9yfPG0ea5n6-dR5NBycSGmVhJgrXA&s",
-                cast: "Vin Diesel, Paul Walker, Michelle Rodriguez"
+                cover: "https://upload.wikimedia.org/wikipedia/en/8/8f/Fast_and_Furious_Poster.jpg",
+                cast: "Vin Diesel, Paul Walker, Jordana Brewster"
             },
             {
                 name: "Ghost Rider",
