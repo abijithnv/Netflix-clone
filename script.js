@@ -133,100 +133,76 @@
                 cast: "Margot Robbie, Idris Elba, John Cena"
             },
             {
-                name: "Ghost Rider",
-                rating: 5.2,
-                cover: "https://i.pinimg.com/736x/4b/22/8f/4b228fc6f2674f7eb7c48af2c6cbf323.jpg",
-                cast: "Nicolas Cage, Eva Mendes, Sam Elliott"
+                name: "Inception",
+                rating: 8.8,
+                cover: "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_.jpg",
+                cast: "Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page"
             },
             {
-                name: "Drunken Master",
-                rating: 7.5,
-                cover: "https://m.media-amazon.com/images/I/51cJs1DMlJL._AC_UF894,1000_QL80_.jpg",
-                cast: "Jackie Chan, Siu Tin Yuen, Jang Lee Hwang"
+                name: "Interstellar",
+                rating: 8.6,
+                cover: "https://static.hd-trailers.net/images/interstellar-127916-poster-xlarge.jpg",
+                cast: "Matthew McConaughey, Anne Hathaway, Jessica Chastain"
             },
             {
-                name: "Me Before You",
-                rating: 7.4,
-                cover: "https://m.media-amazon.com/images/I/81fTRhi9E+L._AC_UF1000,1000_QL80_.jpg",
-                cast: "Emilia Clarke, Sam Claflin, Janet McTeer"
-            },
-
-            {
-                name:"Jumanji",
-                rating:7.1,
-                cover:"https://m.media-amazon.com/images/S/pv-target-images/6605eddeb3e44a153694c675cd1129d2a9d7d25576366657536f7311d9d7dc99.jpg",
-                cast: "Robin Williams . Kirsten Dunst . Bradley Pierce"
-            },
-
-            {
-                name: "The Suicide Squad",
-                rating: 7.3,
-                cover: "https://upload.wikimedia.org/wikipedia/en/5/5c/Suicide_Squad_%282016_film%29_poster.png",
-                cast: "Margot Robbie, Idris Elba, John Cena"
+                name: "Gladiator",
+                rating: 8.5,
+                cover: "https://i.pinimg.com/originals/87/7b/a0/877ba0e8628f331632748e4dde000197.png",
+                cast: "Russell Crowe, Joaquin Phoenix, Connie Nielsen"
             },
             {
-                name: "Ghost Rider",
-                rating: 5.2,
-                cover: "https://i.pinimg.com/736x/4b/22/8f/4b228fc6f2674f7eb7c48af2c6cbf323.jpg",
-                cast: "Nicolas Cage, Eva Mendes, Sam Elliott"
+                name: "The Lion King",
+                rating: 8.5,
+                cover: "https://images.moviesanywhere.com/c07276e9473360730fdbc94baebc4236/4692c964-61ba-486d-9c77-939dbfba2f07.jpg?h=375&resize=fit&w=250",
+                cast: "Matthew Broderick, Jeremy Irons, James Earl Jones"
             },
             {
-                name: "Drunken Master",
-                rating: 7.5,
-                cover: "https://m.media-amazon.com/images/I/51cJs1DMlJL._AC_UF894,1000_QL80_.jpg",
-                cast: "Jackie Chan, Siu Tin Yuen, Jang Lee Hwang"
+                name: "Toy Story",
+                rating: 8.3,
+                cover: "https://m.media-amazon.com/images/M/MV5BMTYzMDM4NzkxOV5BMl5BanBnXkFtZTgwNzM1Mzg2NzM@._V1_.jpg",
+                cast: "Tom Hanks, Tim Allen, Don Rickles"
             },
             {
-                name: "Me Before You",
-                rating: 7.4,
-                cover: "https://m.media-amazon.com/images/I/81fTRhi9E+L._AC_UF1000,1000_QL80_.jpg",
-                cast: "Emilia Clarke, Sam Claflin, Janet McTeer"
-            },
-
-            {
-                name:"Jumanji",
-                rating:7.1,
-                cover:"https://m.media-amazon.com/images/S/pv-target-images/6605eddeb3e44a153694c675cd1129d2a9d7d25576366657536f7311d9d7dc99.jpg",
-                cast: "Robin Williams . Kirsten Dunst . Bradley Pierce"
-            },
-
-            {
-                name: "The Suicide Squad",
-                rating: 7.3,
-                cover: "https://upload.wikimedia.org/wikipedia/en/5/5c/Suicide_Squad_%282016_film%29_poster.png",
-                cast: "Margot Robbie, Idris Elba, John Cena"
+                name: "Shrek",
+                rating: 7.8,
+                cover: "https://i.pinimg.com/564x/93/c7/72/93c772b0c8cd3251635a09c5856df42f.jpg",
+                cast: "Mike Myers, Eddie Murphy, Cameron Diaz"
             },
             {
-                name: "Ghost Rider",
-                rating: 5.2,
-                cover: "https://i.pinimg.com/736x/4b/22/8f/4b228fc6f2674f7eb7c48af2c6cbf323.jpg",
-                cast: "Nicolas Cage, Eva Mendes, Sam Elliott"
+                name: "Forrest Gump",
+                rating: 8.8,
+                cover: "https://m.media-amazon.com/images/M/MV5BNWIwODRlZTUtY2U3ZS00Yzg1LWJhNzYtMmZiYmEyNmU1NjMzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+                cast: "Tom Hanks, Robin Wright, Gary Sinise"
             },
             {
-                name: "Drunken Master",
-                rating: 7.5,
-                cover: "https://m.media-amazon.com/images/I/51cJs1DMlJL._AC_UF894,1000_QL80_.jpg",
-                cast: "Jackie Chan, Siu Tin Yuen, Jang Lee Hwang"
+                name: "The Godfather",
+                rating: 9.2,
+                cover: "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+                cast: "Marlon Brando, Al Pacino, James Caan"
             },
             {
-                name: "Me Before You",
-                rating: 7.4,
-                cover: "https://m.media-amazon.com/images/I/81fTRhi9E+L._AC_UF1000,1000_QL80_.jpg",
-                cast: "Emilia Clarke, Sam Claflin, Janet McTeer"
+                name: "Pulp Fiction",
+                rating: 8.9,
+                cover: "https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+                cast: "John Travolta, Uma Thurman, Samuel L. Jackson"
             },
-
             {
-                name:"Jumanji",
-                rating:7.1,
-                cover:"https://m.media-amazon.com/images/S/pv-target-images/6605eddeb3e44a153694c675cd1129d2a9d7d25576366657536f7311d9d7dc99.jpg",
-                cast: "Robin Williams . Kirsten Dunst . Bradley Pierce"
+                name: "The Martian",
+                rating: 8.0,
+                cover: "https://m.media-amazon.com/images/M/MV5BMTc2MTQ3MDA1Nl5BMl5BanBnXkFtZTgwODA3OTI4NjE@._V1_.jpg",
+                cast: "Matt Damon, Jessica Chastain, Kristen Wiig"
             },
-
             {
-                name: "The Suicide Squad",
-                rating: 7.3,
-                cover: "https://upload.wikimedia.org/wikipedia/en/5/5c/Suicide_Squad_%282016_film%29_poster.png",
-                cast: "Margot Robbie, Idris Elba, John Cena"
+                name: "La La Land",
+                rating: 8.0,
+                cover: "https://w0.peakpx.com/wallpaper/737/594/HD-wallpaper-la-la-land-2016-movie-poster.jpg",
+                cast: "Ryan Gosling, Emma Stone, Rosemarie DeWitt"
+            },
+            {
+                name: "Jurassic Park",
+                rating: 8.1,
+                cover: "https://i.pinimg.com/736x/d9/09/64/d909645fb089d09443957b771245ab97.jpg",
+                cast: "Sam Neill, Laura Dern, Jeff Goldblum"
             },
 
             
