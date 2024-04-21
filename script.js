@@ -46,10 +46,17 @@
                 cast: "Ryan Reynolds . Jodie Comer . Joe Keery"
             },
             {
+                name: "The Fault in Our Stars",
+                rating: 7.7,
+                cover: "https://m.media-amazon.com/images/M/MV5BNTVkMTFiZWItOTFkOC00YTc3LWFhYzQtZTg3NzAxZjJlNTAyXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg",
+                cast: "Shailene Woodley . Ansel Elgort"
+            },
+            {
                 name: "Five Feet Apart",
                 rating: 7.2,
                 cover: "https://m.media-amazon.com/images/M/MV5BNzVmMjJlN2MtNWQ4Ny00Zjc2LWJjYTgtYjJiNGM5MTM1ZTlkXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_.jpg",
-                cast: "Haley Lu Richardson, Cole Sprouse, Moises Arias"
+                cast: "Haley Lu Richardson . Cole Sprouse, Moises Arias"
+
             },
             {
                 name: "The Incredible Hulk",
