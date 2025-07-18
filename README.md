@@ -4,6 +4,7 @@ NETFLIX-CLONE PROJECT Made with Javascript, Html and css
 I'm glad to unveil one of my JavaScript projects- behold, Netflix Clone🍿🎉! Crafted with JavaScript, HTML, and CSS, this simple website aims to bring my skills in javascript and media query.
 
 Key Features Include:
+
 🎯 Dynamic search filters powered by JavaScript.
 
 📱 Fully responsive design for seamless browsing on any device.
